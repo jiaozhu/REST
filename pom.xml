@@ -11,7 +11,6 @@
     <name>REST学习</name>
     <modules>
         <module>chapter01</module>
-        <module>chapter02</module>
     </modules>
 
     <properties>

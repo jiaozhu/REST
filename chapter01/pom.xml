@@ -11,6 +11,12 @@
 
     <artifactId>chapter01</artifactId>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.test.skip>true</maven.test.skip>
+        <pro.outerDirectory>web</pro.outerDirectory>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>javax.servlet</groupId>
